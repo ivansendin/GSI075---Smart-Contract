@@ -1,0 +1,5 @@
+In this task you will have to create a vanity address for Ethereum.
+The beginning of the address must be the same as your registration number (eg.0xBCC999).
+Don't forget to write down the "secret" as this address will be used in the course.
+This is basically a brute force task, choosing a suitable (compiled!) language will help to reduce search time.
+Remember that this task is easily parallelizable. 
